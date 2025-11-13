@@ -21,7 +21,6 @@ export const metadata: Metadata = {
     locale: "hr_HR",
     type: "website",
   },
-    generator: 'v0.app'
 }
 
 export default function RootLayout({
