@@ -14,7 +14,7 @@ export const casinos: Casino[] = [
   {
     id: "germania",
     name: "Germania",
-    url: "https://www.germania.hr/",
+    url: "https://www.germaniasport.hr/hr#/",
     bonus: "do 1000€ + 350 BESPLATNIH VRTNJI + 15€ Besplatna Oklada",
     logo: "/germania.svg",
     rating: 9.7,
